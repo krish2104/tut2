@@ -1,0 +1,38 @@
+.menu {
+   justify-content: flex-start;
+
+  background-color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: white;
+}
+body {
+  background-color: whitesmoke;
+}
+.grid {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-evenly;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.grid img {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: space-evenly;
+  text-align: center;
+   
+  border: 2px solid black;
+  border-radius: 50px;
+}
+.origami {
+  border-radius: 20px;
+  background-color: white;
+  margin: 20px;
+
+  width: 310px;
+  font-family: fantasy;
+}
